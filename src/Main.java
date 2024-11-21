@@ -88,7 +88,7 @@ public class Main {
 
         int one = 30;
         int two = 200;
-        int three = 100;
+        int three = 80;
         if (three > one && three > two) {
             System.out.println("Чило 'three' = " + three + " больше всех");
         } else {
